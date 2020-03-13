@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mvcsimplesjdbc" uuid="490004c5-9ef0-4ae1-8995-d88f81ebb02a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\H4nzo\IdeaProjects\MVC-Simples-JDBC-V2\src\bd\mvcsimplesjdbc.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
